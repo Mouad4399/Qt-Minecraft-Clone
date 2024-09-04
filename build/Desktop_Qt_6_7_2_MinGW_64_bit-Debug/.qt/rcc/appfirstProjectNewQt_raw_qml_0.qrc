@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qt/qml/firstProjectNewQt/">
+    <file alias="Main.qml">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/Main.qml</file>
+    <file alias="images/mc.jpg">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/mc.jpg</file>
+    <file alias="images/breaking/destroy_stage_0.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_0.png</file>
+    <file alias="images/breaking/destroy_stage_1.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_1.png</file>
+    <file alias="images/breaking/destroy_stage_2.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_2.png</file>
+    <file alias="images/breaking/destroy_stage_3.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_3.png</file>
+    <file alias="images/breaking/destroy_stage_4.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_4.png</file>
+    <file alias="images/breaking/destroy_stage_5.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_5.png</file>
+    <file alias="images/breaking/destroy_stage_6.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_6.png</file>
+    <file alias="images/breaking/destroy_stage_7.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_7.png</file>
+    <file alias="images/breaking/destroy_stage_8.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_8.png</file>
+    <file alias="images/breaking/destroy_stage_9.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_9.png</file>
+    <file alias="block.vert">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/block.vert</file>
+    <file alias="images/block.frag">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/block.frag</file>
+  </qresource>
+</RCC>
+

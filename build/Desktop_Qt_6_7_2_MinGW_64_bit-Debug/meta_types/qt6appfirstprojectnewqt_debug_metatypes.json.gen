@@ -1,0 +1,32 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Window",
+                "object": true,
+                "qualifiedClassName": "Window",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "p",
+                                "type": "QPoint"
+                            }
+                        ],
+                        "name": "setCursorPos",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "window.h",
+        "outputRevision": 68
+    }
+]

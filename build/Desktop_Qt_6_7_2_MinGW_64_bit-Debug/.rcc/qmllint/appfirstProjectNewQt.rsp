@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.2/mingw_64/./qml
+--resource
+C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_firstProjectNewQt.qrc
+--resource
+C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appfirstProjectNewQt_raw_qml_0.qrc
+C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/Main.qml

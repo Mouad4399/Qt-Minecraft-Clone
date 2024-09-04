@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/firstProjectNewQt">
+    <file alias="qmldir">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/firstProjectNewQt/qmldir</file>
+  </qresource>
+</RCC>
+
