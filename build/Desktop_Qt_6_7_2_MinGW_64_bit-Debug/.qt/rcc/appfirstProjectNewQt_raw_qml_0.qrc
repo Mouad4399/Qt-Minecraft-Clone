@@ -2,6 +2,7 @@
   <qresource prefix="/qt/qml/firstProjectNewQt/">
     <file alias="Main.qml">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/Main.qml</file>
     <file alias="images/mc.jpg">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/mc.jpg</file>
+    <file alias="images/mc_bar.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/mc_bar.png</file>
     <file alias="images/breaking/destroy_stage_0.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_0.png</file>
     <file alias="images/breaking/destroy_stage_1.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_1.png</file>
     <file alias="images/breaking/destroy_stage_2.png">C:/Users/mo3mo3/Desktop/Qtcpp/firstProjectNewQt/images/breaking/destroy_stage_2.png</file>

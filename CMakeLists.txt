@@ -21,6 +21,7 @@ qt_add_qml_module(appfirstProjectNewQt
 
     RESOURCES
         images/mc.jpg
+        images/mc_bar.png
         images/breaking/destroy_stage_0.png
         images/breaking/destroy_stage_1.png
         images/breaking/destroy_stage_2.png

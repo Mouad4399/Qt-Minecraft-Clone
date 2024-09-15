@@ -19,7 +19,7 @@ Window {
     width: 400
     height: 420
     visible: true
-    title: qsTr("Qt Quick 3D Particles3D Testbed")
+    title: qsTr("Qt Quick 3D Minecraft")
     color: "#000000"
         // Background ocean gradient
         Rectangle {
@@ -45,6 +45,15 @@ Window {
         //     anchors.leftMargin:39
         //     anchors.topMargin: 39
         // }
+        Image{
+            width:Math.min(parent.width*0.5 , 400)
+            height:(width*sourceSize.height)/(sourceSize.width)
+            // sourceSize.width:rootWindow.width*0.88
+            source: "images/mc_bar.png"
+            anchors.bottom:parent.bottom
+            anchors.horizontalCenter: parent.horizontalCenter
+            z:Infinity
+        }
 
         PhysicsWorld {
             id: physicsWorld

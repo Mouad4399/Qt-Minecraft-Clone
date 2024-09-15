@@ -19,7 +19,7 @@ Window {
     width: 400
     height: 420
     visible: true
-    title: qsTr("Qt Quick 3D Particles3D Testbed")
+    title: qsTr("Qt Quick 3D Minecraft")
     color: "#000000"
         // Background ocean gradient
         Rectangle {
@@ -35,15 +35,24 @@ Window {
                 }
             }
         }
-        Button{
-            width:299
-            height:45
-            text:"Minecraft"
-            anchors.left: parent.left
-            anchors.top:parent.top
+        // Button{
+        //     width:299
+        //     height:45
+        //     text:"Minecraft"
+        //     anchors.left: parent.left
+        //     anchors.top:parent.top
+        //     z:Infinity
+        //     anchors.leftMargin:39
+        //     anchors.topMargin: 39
+        // }
+        Image{
+            width:Math.min(parent.width*0.5 , 400)
+            height:(width*sourceSize.height)/(sourceSize.width)
+            // sourceSize.width:rootWindow.width*0.88
+            source: "images/mc_bar.png"
+            anchors.bottom:parent.bottom
+            anchors.horizontalCenter: parent.horizontalCenter
             z:Infinity
-            anchors.leftMargin:39
-            anchors.topMargin: 39
         }
 
         PhysicsWorld {
